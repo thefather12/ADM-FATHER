@@ -4,7 +4,7 @@
 # Configuración del Repositorio (¡MODIFICA ESTO!)
 # ===============================================
 # Enlace base al contenido RAW de tu repositorio (¡Asegúrate de que la rama es correcta!)
-GITHUB_RAW_BASE="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_REPO]/[TU_RAMA]"
+GITHUB_RAW_BASE="https://raw.githubusercontent.com/thefather12/ADM-FATHER/main"
 
 # La ruta de las carpetas DENTRO de tu repositorio, empezando por la raíz.
 # Asumiendo que el contenido principal está en /WEBSOCKETMOD/FATHER/
